@@ -5,7 +5,7 @@ public class Print
 	@Test
 	public static void print()
 	{
-		System.out.println("This method print");
+		System.out.println("This method print ");
 	}
 	
 	@Test
