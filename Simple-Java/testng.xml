@@ -2,7 +2,7 @@
 <suite name="MySuite">
   <test name="AllTests">
     <classes>
-      <class name="Print" />
+      <class name="Print"/>
     </classes>
   </test>
 </suite>
